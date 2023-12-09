@@ -1,0 +1,10 @@
+{
+	"name": "Always allow onscreen keyboard",
+	"uuid": "always-allow-onscreen-keyboard@dvdzmr.extension",
+	"url": "https://github.com/dvdzmr/always-show-onscreen-keyboard",
+	"description": "Always allow the use of the onscreen keyboard (osk), regardless of touch/tablet mode.",
+	
+	"shell-version": [
+		"45"
+	]
+}
