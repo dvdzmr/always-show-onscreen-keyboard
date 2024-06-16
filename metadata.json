@@ -5,6 +5,7 @@
 	"description": "Always allow the use of the onscreen keyboard (osk), regardless of touch/tablet mode.",
 	
 	"shell-version": [
-		"45"
+		"45",
+		"46"
 	]
 }
